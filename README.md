@@ -81,4 +81,4 @@ A modern, full-featured E-Commerce Android application built with Jetpack Compos
    * Click the Green **Play (Run)** button at the top of Android Studio.
 
 ## 👥 Contributors
-* **Developed By**: [Your Name/Roll Number]
+* **Developed By**: krishanvir sindhu
