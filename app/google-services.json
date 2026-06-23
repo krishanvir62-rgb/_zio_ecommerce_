@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539787417451",
+    "project_id": "zio-ecommercd",
+    "storage_bucket": "zio-ecommercd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539787417451:android:90dc74fdf4aad979395e2e",
+        "android_client_info": {
+          "package_name": "com.example.zio_ecommercd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQnZkvKVHG02LR_-F4Gs85N3MQCDLPOsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
