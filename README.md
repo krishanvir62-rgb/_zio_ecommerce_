@@ -67,7 +67,7 @@ A modern, full-featured E-Commerce Android application built with Jetpack Compos
 ### Steps to Run
 1. **Clone the Repository**:
    ```bash
-   git clone <https://github.com/krishanvir62-rgb/_zio_ecommerce_.git>
+   git clone https://github.com/krishanvir62-rgb/_zio_ecommerce_.git
    ```
 2. **Open in Android Studio**:
    * Launch Android Studio.
